@@ -1,0 +1,28 @@
+{
+  "id": "czechtranslationvisage",
+  "title": "CzechTranslationVisage",
+  "version": "1.2.0",
+  "compatibility": {
+    "minimum": "13.346",
+    "verified": "13.351"
+  },
+  "description": "Český překlad modulu Visage.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+      {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationVisage/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationVisage/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationVisage/archive/refs/heads/main.zip"
+}
